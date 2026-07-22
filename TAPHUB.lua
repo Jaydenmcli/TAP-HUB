@@ -951,7 +951,7 @@ Converted["_Area1"].Name = "Area"
 Converted["_Area1"].Parent = Converted["_Area"]
 
 Converted["_TextLabel6"].Font = Enum.Font.GothamBold
-Converted["_TextLabel6"].Text = "3 years of keyless! ðŸŽ‰"
+Converted["_TextLabel6"].Text = "MADE BY DBLEDGENDS987 ON ROBLOX"
 Converted["_TextLabel6"].TextColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_TextLabel6"].TextSize = 14
 Converted["_TextLabel6"].AnchorPoint = Vector2.new(0.5, 0.5)
@@ -964,7 +964,7 @@ Converted["_TextLabel6"].Size = UDim2.new(0, 200, 0, 50)
 Converted["_TextLabel6"].Parent = Converted["_Area1"]
 
 Converted["_TextLabel7"].Font = Enum.Font.GothamBold
-Converted["_TextLabel7"].Text = "YARHM"
+Converted["_TextLabel7"].Text = "TAP HUB"
 Converted["_TextLabel7"].TextColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_TextLabel7"].TextScaled = true
 Converted["_TextLabel7"].TextSize = 14
