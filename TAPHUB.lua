@@ -252,7 +252,7 @@ Converted["_YARHM"].Name = "YARHM"
 Converted["_YARHM"].Parent = game:GetService("CoreGui")
 
 Converted["_Open"].Font = Enum.Font.Gotham
-Converted["_Open"].Text = "Triple-click this region to open YARHM."
+Converted["_Open"].Text = "Triple-click this region to open TAP HUB."
 Converted["_Open"].TextColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_Open"].TextScaled = true
 Converted["_Open"].TextSize = 14
@@ -781,7 +781,7 @@ Converted["_HubCredits"].Name = "HubCredits"
 Converted["_HubCredits"].Parent = Converted["_Menu"]
 
 Converted["_HubDesc"].Font = Enum.Font.GothamBold
-Converted["_HubDesc"].Text = "yet another random hub menu"
+Converted["_HubDesc"].Text = "another TAP hub menu"
 Converted["_HubDesc"].TextColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_HubDesc"].TextSize = 14
 Converted["_HubDesc"].TextWrapped = true
@@ -854,7 +854,7 @@ Converted["_Opener"].Name = "Opener"
 Converted["_Opener"].Parent = Converted["_CanvasGroup"]
 
 Converted["_TextLabel4"].Font = Enum.Font.GothamBold
-Converted["_TextLabel4"].Text = "Yet Another Random Hub Menu"
+Converted["_TextLabel4"].Text = "Another TAP Hub Menu"
 Converted["_TextLabel4"].TextColor3 = Color3.fromRGB(255, 69.00000348687172, 67.00000360608101)
 Converted["_TextLabel4"].TextScaled = true
 Converted["_TextLabel4"].TextSize = 14
