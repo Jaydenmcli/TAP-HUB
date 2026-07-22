@@ -6346,7 +6346,7 @@ local function XXZOB_routine() -- Routine: StarterGui.YARHM.Murder Mystery 2
 				if sher then sherName = sher.Name end
 				local message = string.format([[Murderer: %s |
 		Sheriff: %s |
-		<<YARHM>>]], murdName, sherName)
+		<<TAP>>]], murdName, sherName)
 				textchannel:SendAsync(message)
 			end
 		end,}
